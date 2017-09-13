@@ -1,2 +1,0 @@
-# Smartphone-factory-
-thread project
